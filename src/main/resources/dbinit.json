@@ -1,0 +1,226 @@
+[
+  {
+    "groupId": 1,
+    "users": [
+      {
+        "userId": 1,
+        "name": "Alice",
+        "description": "Roommate",
+        "email": "alice@example.com",
+        "balance": 100.0,
+        "groupsId": [
+          123321, 98123192873, 918230912
+        ],
+        "expenses": [
+          {
+            "id": "1",
+            "description": "Groceries",
+            "amount": 50.0,
+            "date": "2023-02-20T12:00:00Z",
+            "user": {
+              "userId": 1,
+              "name": "Alice",
+              "description": "Roommate",
+              "email": "alice@example.com",
+              "balance": 100.0,
+              "expenses": []
+            },
+            "tags": [
+              {
+                "id": "1",
+                "name": "Food"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "userId": 2,
+        "name": "Bob",
+        "description": "Roommate",
+        "email": "bob@example.com",
+        "balance": 50.0,
+        "groupsId": [
+          123321, 98123192873, 918230912
+        ],
+        "expenses": []
+      }
+    ]
+  },
+  {
+    "groupId": 2,
+    "users": [
+      {
+        "userId": 3,
+        "name": "Charlie",
+        "description": "Friend",
+        "email": "charlie@example.com",
+        "balance": 0.0,
+        "groupsId": [
+          123321, 98123192873, 918230912
+        ],
+        "expenses": []
+      },
+      {
+        "userId": 4,
+        "name": "David",
+        "description": "Friend",
+        "email": "david@example.com",
+        "balance": 0.0,
+        "expenses": [
+          {
+            "id": "2",
+            "description": "Concert tickets",
+            "amount": 100.0,
+            "date": "2023-02-15T18:30:00Z",
+            "user": {
+              "userId": 4,
+              "name": "David",
+              "description": "Friend",
+              "email": "david@example.com",
+              "balance": 0.0,
+              "expenses": []
+            },
+            "tags": [
+              {
+                "id": "2",
+                "name": "Entertainment"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "groupId": 3,
+    "users": [
+      {
+        "userId": 5,
+        "name": "Eve",
+        "description": "Colleague",
+        "email": "eve@example.com",
+        "balance": -25.0,
+        "expenses": [
+          {
+            "id": "3",
+            "description": "Lunch",
+            "amount": 25.0,
+            "date": "2023-02-18T12:30:00Z",
+            "user": {
+              "userId": 5,
+              "name": "Eve",
+              "description": "Colleague",
+              "email": "eve@example.com",
+              "balance": -25.0,
+              "expenses": []
+            },
+            "tags": [
+              {
+                "id": "3",
+                "name": "Food"
+              },
+              {
+                "id": "4",
+                "name": "Work"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "groupId": 6,
+    "users": [
+      {
+        "userId": 1,
+        "name": "Alice",
+        "description": "Roommate",
+        "email": "alice@example.com",
+        "balance": 100.0,
+        "groupsId": [
+          123321, 98123192873, 918230912
+        ],
+        "expenses": [
+          {
+            "id": "1",
+            "description": "Groceries",
+            "amount": 50.0,
+            "date": "2023-02-20T12:00:00Z",
+            "user": {
+              "userId": 1,
+              "name": "Alice",
+              "description": "Roommate",
+              "email": "alice@example.com",
+              "balance": 100.0,
+              "expenses": []
+            },
+            "tags": [
+              {
+                "id": "1",
+                "name": "Food"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "userId": 2,
+        "name": "Bob",
+        "description": "Roommate",
+        "email": "bob@example.com",
+        "balance": 50.0,
+        "expenses": []
+      }
+    ]
+  },
+  {
+    "groupId": 8,
+    "users": [
+      {
+        "userId": 1,
+        "name": "Alice",
+        "description": "Roommate",
+        "email": "alice@example.com",
+        "balance": 100.0,
+        "groupsId": [
+          123321, 98123192873, 918230912
+        ],
+        "expenses": [
+          {
+            "id": "1",
+            "description": "Groceries",
+            "amount": 50.0,
+            "date": "2023-02-20T12:00:00Z",
+            "user": {
+              "userId": 1,
+              "name": "Alice",
+              "description": "Roommate",
+              "email": "alice@example.com",
+              "balance": 100.0,
+              "expenses": []
+            },
+            "tags": [
+              {
+                "id": "1",
+                "name": "Food"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "userId": 2,
+        "name": "Bob",
+        "description": "Roommate",
+        "email": "bob@example.com",
+        "balance": 50.0,
+        "groupsId": [
+          123321, 98123192873, 918230912
+        ],
+        "expenses": []
+      }
+    ]
+  }
+]
