@@ -15,6 +15,6 @@ import java.util.List;
 @AllArgsConstructor
 public class Room {
 
-    private Long groupId;
+    private Long roomId;
     private List<User> users;
 }

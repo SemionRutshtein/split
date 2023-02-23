@@ -19,6 +19,6 @@ public class Expense {
     private String description;
     private BigDecimal amount;
     private Instant date;
-    private User user;
+    private List<Deal> deals;
     private List<Tag> tags;
 }

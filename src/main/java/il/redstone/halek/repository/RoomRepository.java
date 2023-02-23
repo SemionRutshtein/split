@@ -9,4 +9,6 @@ import java.util.List;
 @Repository
 public interface RoomRepository extends MongoRepository<Room, Long> {
     List<Room> findAllByUsersUserId(Long userId);
+
+    List<Room> findAllByRoomId(List<Long> roomId);
 }

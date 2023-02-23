@@ -11,9 +11,9 @@ public class OpenApiConfig {
     public OpenAPI customOpenAPI() {
         return new OpenAPI()
                 .info(new Info()
-                        .title("My API")
+                        .title("Split application API")
                         .version("1.0.0")
-                        .description("My API description"));
+                        .description("Application API"));
     }
 
 }
