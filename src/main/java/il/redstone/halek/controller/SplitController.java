@@ -1,6 +1,6 @@
 package il.redstone.halek.controller;
 
-import il.redstone.halek.dao.RoomDao;
+import il.redstone.halek.dao.SplitDao;
 import il.redstone.halek.models.Room;
 import jakarta.websocket.server.PathParam;
 import lombok.RequiredArgsConstructor;
@@ -19,18 +19,18 @@ import java.util.List;
 @RequestMapping("/api")
 public class SplitController {
 
-    private final RoomDao roomDao;
+    private final SplitDao splitDao;
 
     @GetMapping("/check")
     public ResponseEntity<List<Room>> getData() {
-        List<Room> data = roomDao.receiveAllRooms();
+        List<Room> data = splitDao.receiveAllRooms();
         return new ResponseEntity<>(data, HttpStatus.OK);
     }
 
 
     @GetMapping("/byUserId")
     public ResponseEntity<List<Room>> getRoomsById(@PathParam("userId") Long userId) {
-        List<Room> data = roomDao.receiveAllUsersRoomByUserId(userId);
+        List<Room> data = splitDao.receiveAllUsersRoomByUserId(userId);
         return new ResponseEntity<>(data, HttpStatus.OK);
     }
 }

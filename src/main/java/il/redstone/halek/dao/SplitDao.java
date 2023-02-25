@@ -5,7 +5,7 @@ import il.redstone.halek.models.User;
 
 import java.util.List;
 
-public interface RoomDao {
+public interface SplitDao {
     List<Room> receiveAllRooms();
 
     List<Room> receiveAllUsersRoomByUserId(Long userId);
