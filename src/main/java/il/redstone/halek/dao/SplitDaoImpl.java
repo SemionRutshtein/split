@@ -9,15 +9,13 @@ import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Component;
 
-import javax.naming.NotContextException;
-import javax.swing.text.html.Option;
 import java.util.List;
 import java.util.Optional;
 
 @Slf4j
 @Component
 @RequiredArgsConstructor
-public class RoomDaoImpl implements RoomDao {
+public class SplitDaoImpl implements SplitDao {
 
     private final RoomRepository roomRepository;
     private final UserRepository userRepository;

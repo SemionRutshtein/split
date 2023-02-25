@@ -1,0 +1,5828 @@
+[
+  {
+    "roomId": 123456798,
+    "users": [
+      {
+        "userId": 217365746,
+        "name": "UserName",
+        "description": "description and more data od current user",
+        "email": "fhsdfjhf@gmail.com",
+        "balance": 10000.00,
+        "expenses": [
+          {
+            "id": "1111-1111-1111-1111111",
+            "description": "description and more data od current user",
+            "amount": 9000.0,
+            "date": null,
+            "deals": [
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              }
+            ],
+            "tags": [
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              }
+            ]
+          },
+          {
+            "id": "1111-1111-1111-1111111",
+            "description": "description and more data od current user",
+            "amount": 9000.0,
+            "date": null,
+            "deals": [
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              }
+            ],
+            "tags": [
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              }
+            ]
+          },
+          {
+            "id": "1111-1111-1111-1111111",
+            "description": "description and more data od current user",
+            "amount": 9000.0,
+            "date": null,
+            "deals": [
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              }
+            ],
+            "tags": [
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              }
+            ]
+          }
+        ],
+        "roomsId": [
+          123456798,
+          2345670908,
+          3456798080,
+          45670980,
+          567098
+        ]
+      },
+      {
+        "userId": 217365746,
+        "name": "UserName",
+        "description": "description and more data od current user",
+        "email": "fhsdfjhf@gmail.com",
+        "balance": 10000.00,
+        "expenses": [
+          {
+            "id": "1111-1111-1111-1111111",
+            "description": "description and more data od current user",
+            "amount": 9000.0,
+            "date": null,
+            "deals": [
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              }
+            ],
+            "tags": [
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              }
+            ]
+          },
+          {
+            "id": "1111-1111-1111-1111111",
+            "description": "description and more data od current user",
+            "amount": 9000.0,
+            "date": null,
+            "deals": [
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              }
+            ],
+            "tags": [
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              }
+            ]
+          },
+          {
+            "id": "1111-1111-1111-1111111",
+            "description": "description and more data od current user",
+            "amount": 9000.0,
+            "date": null,
+            "deals": [
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              }
+            ],
+            "tags": [
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              }
+            ]
+          }
+        ],
+        "roomsId": [
+          123456798,
+          2345670908,
+          3456798080,
+          45670980,
+          567098
+        ]
+      },
+      {
+        "userId": 217365746,
+        "name": "UserName",
+        "description": "description and more data od current user",
+        "email": "fhsdfjhf@gmail.com",
+        "balance": 10000.00,
+        "expenses": [
+          {
+            "id": "1111-1111-1111-1111111",
+            "description": "description and more data od current user",
+            "amount": 9000.0,
+            "date": null,
+            "deals": [
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              }
+            ],
+            "tags": [
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              }
+            ]
+          },
+          {
+            "id": "1111-1111-1111-1111111",
+            "description": "description and more data od current user",
+            "amount": 9000.0,
+            "date": null,
+            "deals": [
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              }
+            ],
+            "tags": [
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              }
+            ]
+          },
+          {
+            "id": "1111-1111-1111-1111111",
+            "description": "description and more data od current user",
+            "amount": 9000.0,
+            "date": null,
+            "deals": [
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              }
+            ],
+            "tags": [
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              }
+            ]
+          }
+        ],
+        "roomsId": [
+          123456798,
+          2345670908,
+          3456798080,
+          45670980,
+          567098
+        ]
+      }
+    ]
+  },
+  {
+    "roomId": 123456798,
+    "users": [
+      {
+        "userId": 217365746,
+        "name": "UserName",
+        "description": "description and more data od current user",
+        "email": "fhsdfjhf@gmail.com",
+        "balance": 10000.00,
+        "expenses": [
+          {
+            "id": "1111-1111-1111-1111111",
+            "description": "description and more data od current user",
+            "amount": 9000.0,
+            "date": null,
+            "deals": [
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              }
+            ],
+            "tags": [
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              }
+            ]
+          },
+          {
+            "id": "1111-1111-1111-1111111",
+            "description": "description and more data od current user",
+            "amount": 9000.0,
+            "date": null,
+            "deals": [
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              }
+            ],
+            "tags": [
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              }
+            ]
+          },
+          {
+            "id": "1111-1111-1111-1111111",
+            "description": "description and more data od current user",
+            "amount": 9000.0,
+            "date": null,
+            "deals": [
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              }
+            ],
+            "tags": [
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              }
+            ]
+          }
+        ],
+        "roomsId": [
+          123456798,
+          2345670908,
+          3456798080,
+          45670980,
+          567098
+        ]
+      },
+      {
+        "userId": 217365746,
+        "name": "UserName",
+        "description": "description and more data od current user",
+        "email": "fhsdfjhf@gmail.com",
+        "balance": 10000.00,
+        "expenses": [
+          {
+            "id": "1111-1111-1111-1111111",
+            "description": "description and more data od current user",
+            "amount": 9000.0,
+            "date": null,
+            "deals": [
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              }
+            ],
+            "tags": [
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              }
+            ]
+          },
+          {
+            "id": "1111-1111-1111-1111111",
+            "description": "description and more data od current user",
+            "amount": 9000.0,
+            "date": null,
+            "deals": [
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              }
+            ],
+            "tags": [
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              }
+            ]
+          },
+          {
+            "id": "1111-1111-1111-1111111",
+            "description": "description and more data od current user",
+            "amount": 9000.0,
+            "date": null,
+            "deals": [
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              }
+            ],
+            "tags": [
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              }
+            ]
+          }
+        ],
+        "roomsId": [
+          123456798,
+          2345670908,
+          3456798080,
+          45670980,
+          567098
+        ]
+      },
+      {
+        "userId": 217365746,
+        "name": "UserName",
+        "description": "description and more data od current user",
+        "email": "fhsdfjhf@gmail.com",
+        "balance": 10000.00,
+        "expenses": [
+          {
+            "id": "1111-1111-1111-1111111",
+            "description": "description and more data od current user",
+            "amount": 9000.0,
+            "date": null,
+            "deals": [
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              }
+            ],
+            "tags": [
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              }
+            ]
+          },
+          {
+            "id": "1111-1111-1111-1111111",
+            "description": "description and more data od current user",
+            "amount": 9000.0,
+            "date": null,
+            "deals": [
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              }
+            ],
+            "tags": [
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              }
+            ]
+          },
+          {
+            "id": "1111-1111-1111-1111111",
+            "description": "description and more data od current user",
+            "amount": 9000.0,
+            "date": null,
+            "deals": [
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              }
+            ],
+            "tags": [
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              }
+            ]
+          }
+        ],
+        "roomsId": [
+          123456798,
+          2345670908,
+          3456798080,
+          45670980,
+          567098
+        ]
+      }
+    ]
+  },
+  {
+    "roomId": 123456798,
+    "users": [
+      {
+        "userId": 217365746,
+        "name": "UserName",
+        "description": "description and more data od current user",
+        "email": "fhsdfjhf@gmail.com",
+        "balance": 10000.00,
+        "expenses": [
+          {
+            "id": "1111-1111-1111-1111111",
+            "description": "description and more data od current user",
+            "amount": 9000.0,
+            "date": null,
+            "deals": [
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              }
+            ],
+            "tags": [
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              }
+            ]
+          },
+          {
+            "id": "1111-1111-1111-1111111",
+            "description": "description and more data od current user",
+            "amount": 9000.0,
+            "date": null,
+            "deals": [
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              }
+            ],
+            "tags": [
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              }
+            ]
+          },
+          {
+            "id": "1111-1111-1111-1111111",
+            "description": "description and more data od current user",
+            "amount": 9000.0,
+            "date": null,
+            "deals": [
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              }
+            ],
+            "tags": [
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              }
+            ]
+          }
+        ],
+        "roomsId": [
+          123456798,
+          2345670908,
+          3456798080,
+          45670980,
+          567098
+        ]
+      },
+      {
+        "userId": 217365746,
+        "name": "UserName",
+        "description": "description and more data od current user",
+        "email": "fhsdfjhf@gmail.com",
+        "balance": 10000.00,
+        "expenses": [
+          {
+            "id": "1111-1111-1111-1111111",
+            "description": "description and more data od current user",
+            "amount": 9000.0,
+            "date": null,
+            "deals": [
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              }
+            ],
+            "tags": [
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              }
+            ]
+          },
+          {
+            "id": "1111-1111-1111-1111111",
+            "description": "description and more data od current user",
+            "amount": 9000.0,
+            "date": null,
+            "deals": [
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              }
+            ],
+            "tags": [
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              }
+            ]
+          },
+          {
+            "id": "1111-1111-1111-1111111",
+            "description": "description and more data od current user",
+            "amount": 9000.0,
+            "date": null,
+            "deals": [
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              }
+            ],
+            "tags": [
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              }
+            ]
+          }
+        ],
+        "roomsId": [
+          123456798,
+          2345670908,
+          3456798080,
+          45670980,
+          567098
+        ]
+      },
+      {
+        "userId": 217365746,
+        "name": "UserName",
+        "description": "description and more data od current user",
+        "email": "fhsdfjhf@gmail.com",
+        "balance": 10000.00,
+        "expenses": [
+          {
+            "id": "1111-1111-1111-1111111",
+            "description": "description and more data od current user",
+            "amount": 9000.0,
+            "date": null,
+            "deals": [
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              }
+            ],
+            "tags": [
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              }
+            ]
+          },
+          {
+            "id": "1111-1111-1111-1111111",
+            "description": "description and more data od current user",
+            "amount": 9000.0,
+            "date": null,
+            "deals": [
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              }
+            ],
+            "tags": [
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              }
+            ]
+          },
+          {
+            "id": "1111-1111-1111-1111111",
+            "description": "description and more data od current user",
+            "amount": 9000.0,
+            "date": null,
+            "deals": [
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              }
+            ],
+            "tags": [
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              }
+            ]
+          }
+        ],
+        "roomsId": [
+          123456798,
+          2345670908,
+          3456798080,
+          45670980,
+          567098
+        ]
+      }
+    ]
+  },
+  {
+    "roomId": 45679820398,
+    "users": [
+      {
+        "userId": 217365746,
+        "name": "UserName",
+        "description": "description and more data od current user",
+        "email": "fhsdfjhf@gmail.com",
+        "balance": 10000.00,
+        "expenses": [
+          {
+            "id": "1111-1111-1111-1111111",
+            "description": "description and more data od current user",
+            "amount": 9000.0,
+            "date": null,
+            "deals": [
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              }
+            ],
+            "tags": [
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              }
+            ]
+          },
+          {
+            "id": "1111-1111-1111-1111111",
+            "description": "description and more data od current user",
+            "amount": 9000.0,
+            "date": null,
+            "deals": [
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              }
+            ],
+            "tags": [
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              }
+            ]
+          },
+          {
+            "id": "1111-1111-1111-1111111",
+            "description": "description and more data od current user",
+            "amount": 9000.0,
+            "date": null,
+            "deals": [
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              }
+            ],
+            "tags": [
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              }
+            ]
+          }
+        ],
+        "roomsId": [
+          123456798,
+          2345670908,
+          3456798080,
+          45670980,
+          567098
+        ]
+      },
+      {
+        "userId": 217365746,
+        "name": "UserName",
+        "description": "description and more data od current user",
+        "email": "fhsdfjhf@gmail.com",
+        "balance": 10000.00,
+        "expenses": [
+          {
+            "id": "1111-1111-1111-1111111",
+            "description": "description and more data od current user",
+            "amount": 9000.0,
+            "date": null,
+            "deals": [
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              }
+            ],
+            "tags": [
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              }
+            ]
+          },
+          {
+            "id": "1111-1111-1111-1111111",
+            "description": "description and more data od current user",
+            "amount": 9000.0,
+            "date": null,
+            "deals": [
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              }
+            ],
+            "tags": [
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              }
+            ]
+          },
+          {
+            "id": "1111-1111-1111-1111111",
+            "description": "description and more data od current user",
+            "amount": 9000.0,
+            "date": null,
+            "deals": [
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              }
+            ],
+            "tags": [
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              }
+            ]
+          }
+        ],
+        "roomsId": [
+          123456798,
+          2345670908,
+          3456798080,
+          45670980,
+          567098
+        ]
+      },
+      {
+        "userId": 217365746,
+        "name": "UserName",
+        "description": "description and more data od current user",
+        "email": "fhsdfjhf@gmail.com",
+        "balance": 10000.00,
+        "expenses": [
+          {
+            "id": "1111-1111-1111-1111111",
+            "description": "description and more data od current user",
+            "amount": 9000.0,
+            "date": null,
+            "deals": [
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              }
+            ],
+            "tags": [
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              }
+            ]
+          },
+          {
+            "id": "1111-1111-1111-1111111",
+            "description": "description and more data od current user",
+            "amount": 9000.0,
+            "date": null,
+            "deals": [
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              }
+            ],
+            "tags": [
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              }
+            ]
+          },
+          {
+            "id": "1111-1111-1111-1111111",
+            "description": "description and more data od current user",
+            "amount": 9000.0,
+            "date": null,
+            "deals": [
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              }
+            ],
+            "tags": [
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              }
+            ]
+          }
+        ],
+        "roomsId": [
+          123456798,
+          2345670908,
+          3456798080,
+          45670980,
+          567098
+        ]
+      }
+    ]
+  },
+  {
+    "roomId": 123456798,
+    "users": [
+      {
+        "userId": 217365746,
+        "name": "UserName",
+        "description": "description and more data od current user",
+        "email": "fhsdfjhf@gmail.com",
+        "balance": 10000.00,
+        "expenses": [
+          {
+            "id": "1111-1111-1111-1111111",
+            "description": "description and more data od current user",
+            "amount": 9000.0,
+            "date": null,
+            "deals": [
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              }
+            ],
+            "tags": [
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              }
+            ]
+          },
+          {
+            "id": "1111-1111-1111-1111111",
+            "description": "description and more data od current user",
+            "amount": 9000.0,
+            "date": null,
+            "deals": [
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              }
+            ],
+            "tags": [
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              }
+            ]
+          },
+          {
+            "id": "1111-1111-1111-1111111",
+            "description": "description and more data od current user",
+            "amount": 9000.0,
+            "date": null,
+            "deals": [
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              }
+            ],
+            "tags": [
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              }
+            ]
+          }
+        ],
+        "roomsId": [
+          123456798,
+          2345670908,
+          3456798080,
+          45670980,
+          567098
+        ]
+      },
+      {
+        "userId": 217365746,
+        "name": "UserName",
+        "description": "description and more data od current user",
+        "email": "fhsdfjhf@gmail.com",
+        "balance": 10000.00,
+        "expenses": [
+          {
+            "id": "1111-1111-1111-1111111",
+            "description": "description and more data od current user",
+            "amount": 9000.0,
+            "date": null,
+            "deals": [
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              }
+            ],
+            "tags": [
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              }
+            ]
+          },
+          {
+            "id": "1111-1111-1111-1111111",
+            "description": "description and more data od current user",
+            "amount": 9000.0,
+            "date": null,
+            "deals": [
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              }
+            ],
+            "tags": [
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              }
+            ]
+          },
+          {
+            "id": "1111-1111-1111-1111111",
+            "description": "description and more data od current user",
+            "amount": 9000.0,
+            "date": null,
+            "deals": [
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              }
+            ],
+            "tags": [
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              }
+            ]
+          }
+        ],
+        "roomsId": [
+          123456798,
+          2345670908,
+          3456798080,
+          45670980,
+          567098
+        ]
+      },
+      {
+        "userId": 217365746,
+        "name": "UserName",
+        "description": "description and more data od current user",
+        "email": "fhsdfjhf@gmail.com",
+        "balance": 10000.00,
+        "expenses": [
+          {
+            "id": "1111-1111-1111-1111111",
+            "description": "description and more data od current user",
+            "amount": 9000.0,
+            "date": null,
+            "deals": [
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              }
+            ],
+            "tags": [
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              }
+            ]
+          },
+          {
+            "id": "1111-1111-1111-1111111",
+            "description": "description and more data od current user",
+            "amount": 9000.0,
+            "date": null,
+            "deals": [
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              }
+            ],
+            "tags": [
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              }
+            ]
+          },
+          {
+            "id": "1111-1111-1111-1111111",
+            "description": "description and more data od current user",
+            "amount": 9000.0,
+            "date": null,
+            "deals": [
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              }
+            ],
+            "tags": [
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              }
+            ]
+          }
+        ],
+        "roomsId": [
+          123456798,
+          2345670908,
+          3456798080,
+          45670980,
+          567098
+        ]
+      }
+    ]
+  },
+  {
+    "roomId": 123456798,
+    "users": [
+      {
+        "userId": 217365746,
+        "name": "UserName",
+        "description": "description and more data od current user",
+        "email": "fhsdfjhf@gmail.com",
+        "balance": 10000.00,
+        "expenses": [
+          {
+            "id": "1111-1111-1111-1111111",
+            "description": "description and more data od current user",
+            "amount": 9000.0,
+            "date": null,
+            "deals": [
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              }
+            ],
+            "tags": [
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              }
+            ]
+          },
+          {
+            "id": "1111-1111-1111-1111111",
+            "description": "description and more data od current user",
+            "amount": 9000.0,
+            "date": null,
+            "deals": [
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              }
+            ],
+            "tags": [
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              }
+            ]
+          },
+          {
+            "id": "1111-1111-1111-1111111",
+            "description": "description and more data od current user",
+            "amount": 9000.0,
+            "date": null,
+            "deals": [
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              }
+            ],
+            "tags": [
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              }
+            ]
+          }
+        ],
+        "roomsId": [
+          123456798,
+          2345670908,
+          3456798080,
+          45670980,
+          567098
+        ]
+      },
+      {
+        "userId": 217365746,
+        "name": "UserName",
+        "description": "description and more data od current user",
+        "email": "fhsdfjhf@gmail.com",
+        "balance": 10000.00,
+        "expenses": [
+          {
+            "id": "1111-1111-1111-1111111",
+            "description": "description and more data od current user",
+            "amount": 9000.0,
+            "date": null,
+            "deals": [
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              }
+            ],
+            "tags": [
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              }
+            ]
+          },
+          {
+            "id": "1111-1111-1111-1111111",
+            "description": "description and more data od current user",
+            "amount": 9000.0,
+            "date": null,
+            "deals": [
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              }
+            ],
+            "tags": [
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              }
+            ]
+          },
+          {
+            "id": "1111-1111-1111-1111111",
+            "description": "description and more data od current user",
+            "amount": 9000.0,
+            "date": null,
+            "deals": [
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              }
+            ],
+            "tags": [
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              }
+            ]
+          }
+        ],
+        "roomsId": [
+          123456798,
+          2345670908,
+          3456798080,
+          45670980,
+          567098
+        ]
+      },
+      {
+        "userId": 217365746,
+        "name": "UserName",
+        "description": "description and more data od current user",
+        "email": "fhsdfjhf@gmail.com",
+        "balance": 10000.00,
+        "expenses": [
+          {
+            "id": "1111-1111-1111-1111111",
+            "description": "description and more data od current user",
+            "amount": 9000.0,
+            "date": null,
+            "deals": [
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              }
+            ],
+            "tags": [
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              }
+            ]
+          },
+          {
+            "id": "1111-1111-1111-1111111",
+            "description": "description and more data od current user",
+            "amount": 9000.0,
+            "date": null,
+            "deals": [
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              }
+            ],
+            "tags": [
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              }
+            ]
+          },
+          {
+            "id": "1111-1111-1111-1111111",
+            "description": "description and more data od current user",
+            "amount": 9000.0,
+            "date": null,
+            "deals": [
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              },
+              {
+                "issueAmount": 20000.0,
+                "participants": [
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  },
+                  {
+                    "userId": 217365746,
+                    "dealRoomIndex": 10000,
+                    "amount": 9000.0
+                  }
+                ]
+              }
+            ],
+            "tags": [
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              },
+              {
+                "id": "1111-1111-1111-1111111",
+                "name": "UserName"
+              }
+            ]
+          }
+        ],
+        "roomsId": [
+          123456798,
+          2345670908,
+          3456798080,
+          45670980,
+          567098
+        ]
+      }
+    ]
+  }
+]

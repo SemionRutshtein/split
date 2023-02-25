@@ -5,8 +5,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 import lombok.ToString;
 
-import java.math.BigDecimal;
-import java.time.Instant;
+import java.time.LocalDate;
 import java.util.List;
 
 @Data
@@ -17,8 +16,8 @@ public class Expense {
 
     private String id;
     private String description;
-    private BigDecimal amount;
-    private Instant date;
+    private Double amount;
+    private LocalDate date;
     private List<Deal> deals;
     private List<Tag> tags;
 }
