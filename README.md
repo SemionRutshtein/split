@@ -4,7 +4,8 @@ README for Halek Application
 
 Halek is a mobile application that enables users to split expenses among friends, family, and colleagues. It's designed to simplify the process of sharing expenses and maintaining financial balance between multiple individuals.
 
-Features:
+Features:  
+
 
 User account creation and login
 Creating groups for splitting expenses
